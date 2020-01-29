@@ -1,4 +1,4 @@
-# 3DCharacter
+ename# 3DCharacter
 
 A simple rigged and animated character from [Mixamo](https://www.mixamo.com/) that has been edited to be suitable for use with 3D Game engines such as [Godot](https://godotengine.org/).
 
@@ -20,4 +20,4 @@ Currently, the model includes the following animations;
  * Roll
  * Back step
 
-The source animations are included in the [`Mixamo`](Mixamo) sub-folder, and the [`Mixamo/Standard Walk.fbx`](Mixamo/Standard Walk.fbx) file also includes the character mesh.
+The source animations are included in the [`Mixamo`](Mixamo) sub-folder, and the [`Mixamo/Standard Walk.fbx`](Mixamo/Standard%20Walk.fbx) file also includes the character mesh.
